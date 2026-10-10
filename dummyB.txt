@@ -1,1 +1,2 @@
-dummy b also changes
+
+this is dummy B
