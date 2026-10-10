@@ -1,2 +1,3 @@
 .env
+built/built.exe
 # gitignore ke madhya se .env file ko hide kar diya
